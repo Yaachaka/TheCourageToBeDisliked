@@ -1,0 +1,193 @@
+:root
+{
+	--body-BG: hsl(100, 50%, 50%);
+
+	--widthLeft: 20vw;
+	--widthRight: 10vw;
+	--section-padding: 0.5rem;
+	--section-padding2: 0.4rem 0.2rem;
+	--section-border-radius: 1rem;
+	--border-radius: 2rem;
+	--card-padding: 1rem;
+	--card-border-radius: 1rem;
+
+	--narrator-font-family: Verdana;
+	--philosopher-font-family: sans-serif;
+	--youth-font-family: Tahoma;
+}
+
+*, *::before, *::after
+{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	list-style: none;
+	border: none;
+}
+
+html
+{
+
+}
+
+head
+{
+
+}
+
+body
+{
+	background: var(--body-BG);
+	overflow-x: hidden;
+}
+
+nav
+{
+	width: 100%;
+	background-color: burlywood;
+	padding: 0.4rem 0;
+	position: fixed; /*Will stick the header on top always*/
+	top: 0;
+	z-index: 10;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+	align-content: center;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+
+nav .container
+{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav .container .titles
+{
+	margin: auto;
+}
+
+nav .container .titles .mainTitle
+{
+	font-size: 22px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: aquamarine;
+	/* width: 50%; */
+}
+
+nav .container .titles .subTitle
+{
+	display: flex;
+	align-items: center;
+	justify-content: right;
+	background-color: cadetblue;
+	font-size: 14px;
+	font-style: italic;
+}
+
+main
+{
+	position: fixed;
+	top: 4.8rem;
+}
+
+div
+{
+	/* border: 0.1rem;
+	border-style: dashed;
+	border-color: black; */
+}
+
+.container
+{
+	width: 95%;
+	margin: 0 auto; /*Centers the entire body content*/
+}
+
+main .container 
+{
+	display: grid;
+	grid-template-columns: var(--widthLeft) auto var(--widthRight);
+	column-gap: 0.8rem;
+	position: relative;
+}
+
+main .container .left
+{
+	background-color: #00ffff;
+	border-radius: var(--section-border-radius);
+	padding: var(--section-padding2);
+	position: sticky;
+	max-height: calc(100vh - 8rem);
+	overflow-y: auto;
+}
+
+main .container .middle
+{
+	background-color: red;
+	border-radius: var(--section-border-radius);
+	padding: var(--section-padding2);
+	max-height: calc(100vh - 8rem);
+	overflow-y: auto;
+}
+
+main .container .right
+{
+	background-color: blue;
+	border-radius: var(--section-border-radius);
+	padding: var(--section-padding2);
+	max-height: calc(100vh - 8rem);
+	overflow-y: auto;
+}
+
+main .container .left li
+{
+	/* padding-left: 2rem; */
+	list-style: disc;
+	list-style-position: inside;
+}
+
+main .container .left .chapter .unit ul > li
+{
+	padding-left: 2rem;
+	list-style: circle;
+	list-style-position: inside;
+	/* display: none; */
+}
+
+main .container .middle
+{
+	padding: 0.1rem 0.3rem;
+}
+
+main .container .middle > div
+{
+	border-radius: var(--card-border-radius);
+	padding: 0.8rem;
+	margin: 0.3rem 0;
+}
+
+main .container .middle .narrator
+{
+	background-color: bisque;
+	font-family: var(--narrator-font-family);
+}
+
+main .container .middle .philosopher
+{
+	background-color: chocolate;
+	font-family: var(--philosopher-font-family);
+}
+
+main .container .middle .youth
+{
+	background-color: chartreuse;
+	font-family: var(--youth-font-family);
+}
