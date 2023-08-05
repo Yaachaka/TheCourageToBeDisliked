@@ -86,7 +86,7 @@ nav .container .titles .subTitle
 {
 	display: flex;
 	align-items: center;
-	justify-content: right;
+	justify-content: space-between;
 	background-color: cadetblue;
 	font-size: 14px;
 	font-style: italic;
@@ -182,12 +182,35 @@ main .container .middle .narrator
 
 main .container .middle .philosopher
 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 	background-color: chocolate;
 	font-family: var(--philosopher-font-family);
 }
 
 main .container .middle .youth
 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 	background-color: chartreuse;
 	font-family: var(--youth-font-family);
+}
+
+main .container .middle .philosopher img
+{
+	width: 5rem;
+	height: 5rem;
+	border-radius: 50%;
+	/* background-color: blue; */
+	overflow: hidden;
+}
+
+main .container .middle .youth img
+{
+	width: 5rem;
+	height: 5rem;
+	border-radius: 50%;
+	/* background-color: blue; */
 }
