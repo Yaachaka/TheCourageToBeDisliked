@@ -45,6 +45,23 @@ body
 	overflow-x: hidden;
 }
 
+a
+{
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #000;
+	text-decoration: none;
+}
+
+p
+{
+	text-align: justify;
+}
+
 nav
 {
 	width: 100%;
@@ -221,12 +238,12 @@ main .container .left .chapter .unit ul > li
 	/* display: none; */
 }
 
-main .container .middle
+main .container .middle 
 {
 	padding: 0.1rem 0.3rem;
 }
 
-main .container .middle > div
+main .container .middle div
 {
 	border-radius: var(--card-border-radius);
 	padding: 0.8rem;
@@ -254,7 +271,7 @@ main .container .middle .youth
 	align-items: center;
 	justify-content: space-between;
 	background-color: rgba(120, 252, 54, 0.637);
-	font-family: var(--youth-font-family);
+	font-family: var(--youth-font-family);	
 }
 
 main .container .middle .philosopher img
@@ -263,7 +280,8 @@ main .container .middle .philosopher img
 	height: 5rem;
 	border-radius: 50%;
 	/* background-color: blue; */
-	overflow: hidden;
+	/* overflow: hidden; */
+	margin: 0.3rem;
 }
 
 main .container .middle .youth img
@@ -272,4 +290,13 @@ main .container .middle .youth img
 	height: 5rem;
 	border-radius: 50%;
 	/* background-color: blue; */
+	/* overflow: hidden; */
+	margin: 0.3rem;
+}
+
+.contentDivide
+{
+	height: 5px;
+	background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, violet, indigo, blue, green, yellow, orange, red, violet, indigo, blue, green, yellow, orange, red);
+	/* border: 2px solid black; */
 }
