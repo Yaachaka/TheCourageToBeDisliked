@@ -11,6 +11,7 @@
 	--card-padding: 1rem;
 	--card-border-radius: 1rem;
 
+	--nav-main-divider: 4.0rem;
 	--narrator-font-family: Verdana;
 	--philosopher-font-family: sans-serif;
 	--youth-font-family: Tahoma;
@@ -39,15 +40,17 @@ head
 
 body
 {
-	background: var(--body-BG);
+	/* background: var(--body-BG); */
+	/* background: linear-gradient(to bottom, hsl(10, 74%, 68%), hsl(28, 100%, 87%), hsl(172, 100%, 77%)); */
 	overflow-x: hidden;
 }
 
 nav
 {
 	width: 100%;
-	background-color: burlywood;
-	padding: 0.4rem 0;
+	height: calc(var(--nav-main-divider) - 0.1rem);
+	background: linear-gradient(to bottom, hsl(10, 74%, 68%), hsl(28, 100%, 87%), hsl(172, 100%, 77%));
+	padding: 0.3rem 0;
 	position: fixed; /*Will stick the header on top always*/
 	top: 0;
 	z-index: 10;
@@ -78,7 +81,7 @@ nav .container .titles .mainTitle
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: aquamarine;
+	/* background-color: aquamarine; */
 	/* width: 50%; */
 }
 
@@ -87,7 +90,7 @@ nav .container .titles .subTitle
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: cadetblue;
+	/* background-color: cadetblue; */
 	font-size: 14px;
 	font-style: italic;
 }
@@ -95,7 +98,7 @@ nav .container .titles .subTitle
 main
 {
 	position: fixed;
-	top: 4.8rem;
+	top: var(--nav-main-divider);
 }
 
 div
@@ -103,6 +106,11 @@ div
 	/* border: 0.1rem;
 	border-style: dashed;
 	border-color: black; */
+}
+
+.main_body
+{
+	background: linear-gradient(to bottom, hsl(172, 100%, 77%), hsl(28, 100%, 87%), hsl(10, 74%, 68%));
 }
 
 .container
@@ -117,12 +125,16 @@ main .container
 	grid-template-columns: var(--widthLeft) auto var(--widthRight);
 	column-gap: 0.8rem;
 	position: relative;
+	padding: 0.4rem;;
 }
 
 main .container .left
 {
-	background-color: #00ffff;
+	border-color:white;
+	border-width: 0.2rem;
+	border-style:double;
 	border-radius: var(--section-border-radius);
+	/* background-color: #3dfafa6c; */
 	padding: var(--section-padding2);
 	position: sticky;
 	max-height: calc(100vh - 8rem);
@@ -131,7 +143,10 @@ main .container .left
 
 main .container .middle
 {
-	background-color: red;
+	border-color:white;
+	border-width: 0.2rem;
+	border-style:double;
+	/* background-color: red; */
 	border-radius: var(--section-border-radius);
 	padding: var(--section-padding2);
 	max-height: calc(100vh - 8rem);
@@ -140,11 +155,55 @@ main .container .middle
 
 main .container .right
 {
-	background-color: blue;
+	border-color:white;
+	border-width: 0.2rem;
+	border-style:double;
+	/* background-color: blue; */
 	border-radius: var(--section-border-radius);
 	padding: var(--section-padding2);
 	max-height: calc(100vh - 8rem);
 	overflow-y: auto;
+}
+
+main .container .middle .firstPage
+{
+	align-items: center;
+}
+
+main .container .middle .firstPage .mainTitle h1, h2
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color:rgb(58, 5, 248);
+}
+
+main .container .middle .firstPage .subTitle h4
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgb(32, 32, 235);
+}
+
+main .container .middle .firstPage .image img
+{
+	width: 100%;
+	overflow: hidden;
+	justify-content: center;
+}
+
+main .container .middle .firstPage .authors p
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: green;
+	font-size: 18px;
+	font-weight: bold;
 }
 
 main .container .left li
@@ -176,7 +235,7 @@ main .container .middle > div
 
 main .container .middle .narrator
 {
-	background-color: bisque;
+	background-color: rgba(223, 207, 177, 0.986);
 	font-family: var(--narrator-font-family);
 }
 
@@ -185,7 +244,7 @@ main .container .middle .philosopher
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: chocolate;
+	background-color: rgba(252, 130, 43, 0.637);
 	font-family: var(--philosopher-font-family);
 }
 
@@ -194,7 +253,7 @@ main .container .middle .youth
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: chartreuse;
+	background-color: rgba(120, 252, 54, 0.637);
 	font-family: var(--youth-font-family);
 }
 
