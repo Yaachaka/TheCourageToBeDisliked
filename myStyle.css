@@ -2,7 +2,7 @@
 {
 	--body-BG: hsl(100, 50%, 50%);
 
-	--widthLeft: 20vw;
+	--widthLeft: 0vw;
 	--widthRight: 10vw;
 	--section-padding: 0.5rem;
 	--section-padding2: 0.4rem 0.2rem;
@@ -116,6 +116,7 @@ main
 {
 	position: fixed;
 	top: var(--nav-main-divider);
+	width: 100%;
 }
 
 div
@@ -156,6 +157,7 @@ main .container .left
 	position: sticky;
 	max-height: calc(100vh - 8rem);
 	overflow-y: auto;
+	/* display: none; */
 }
 
 main .container .middle
@@ -180,6 +182,12 @@ main .container .right
 	padding: var(--section-padding2);
 	max-height: calc(100vh - 8rem);
 	overflow-y: auto;
+	text-align: right;
+}
+
+main .container .right div
+{
+	margin: 0.3rem;
 }
 
 main .container .middle .firstPage
@@ -299,4 +307,14 @@ main .container .middle .youth img
 	height: 5px;
 	background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, violet, indigo, blue, green, yellow, orange, red, violet, indigo, blue, green, yellow, orange, red);
 	/* border: 2px solid black; */
+}
+
+.view-content
+{
+	cursor: pointer;
+}
+
+#id-view-content
+{
+
 }
