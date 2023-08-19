@@ -1,29 +1,23 @@
-HEADER3: From Power Struggle to Revenge
-YOUTH: Okay, all this talk about teleology and such is pure sophistry, and trauma definitely does exist. And people cannot break free from the past. Surely you realize that? We cannot go back to the past in a time machine. As long as the past exists as the past, we live within contexts from the past. If one were to treat the past as something that does not exist, that would be the same as negating the entire life one has led. Are you suggesting I choose such an irresponsible life?
-PHILOSOPHER: It is true that one cannot use a time machine or turn back the hands of time. But what kind of meaning does one attribute to past events? This is the task that is given to "you now."
-YOUTH: All right, so let's talk about "now." Last time, you said that people fabricate the emotion of anger, right? And that that is the standpoint of teleology. I still cannot accept that statement. For example, how would you explain instances of anger toward society, or anger toward government? Would you say that these, too, are emotions fabricated in order to push one's opinions?
-PHILOSOPHER: Certainly, there are times when I feel indignation with regard to social problems. But I would say that rather than a sudden burst of emotion, it is indignation based on logic. There is a difference between personal anger (personal grudge) and indignation with regard to society's contradictions and injustices (righteous indignation). Personal anger soon cools. Righteous indignation, on the other hand, lasts for a long time. Anger as an expression of a personal grudge is nothing but a tool for making others submit to you.
-YOUTH: You say that personal grudges and righteous indignation are different?
-PHILOSOPHER: They are completely different. Because righteous indignation goes beyond one's own interests.
-YOUTH: Then I'll ask about personal grudges. Surely even you get angry sometimes--for instance, if someone hurls abuse at you for no particular reason--don't you?
-PHILOSOPHER: No, I do not.
-YOUTH: Come on, be honest.
-PHILOSOPHER: If someone were to abuse me to my face, I would think about the person's hidden goal. Even if you are not directly abusive, when you feel genuinely angry due to another person's words or behavior, please consider that the person is challenging you to a power struggle.
-YOUTH: A power struggle?
-PHILOSOPHER: For instance, a child will tease an adult with various pranks and misbehaviors. In many cases, this is done with the goal of getting attention and will cease just before the adult gets genuinely angry. However, if the child does not stop before the adult gets genuinely angry, then his goal is actually to get in a fight.
-YOUTH: Why would he want to get in a fight?
-PHILOSOPHER: He wants to win. He wants to prove his power by winning.
-YOUTH: I don't really get that. Could you give me some concrete examples?
-PHILOSOPHER: Let's say you and a friend have been discussing the current political situation. Before long, it turns into a heated argument, and neither of you is willing to accept any differences of opinion until finally it reaches the point where he starts engaging in personal attacks--that you're stupid, and it's because of people like you that this country doesn't change, that sort of thing.
-YOUTH: But if someone said that to me, I wouldn't be able to put up with it.
-PHILOSOPHER: In this case, what is the other person's goal? Is it only that he wants to discuss politics? No, it isn't. It's that he finds you unbearable, and he wants to criticize and provoke you, and make you submit through a power struggle. If you get angry at this point, the moment he has been anticipating will arrive, and the relationship will suddenly turn into a power struggle. No matter what the provocation, you must not get taken in.
-YOUTH: No, there's no need to run away from it. If someone wants to start a fight, it's fine to accept it. Because it's the other guy who's at fault, anyway. You can bash his nose in, the stupid fool. With words, that is.
-PHILOSOPHER: Now let's say you take control of the quarrel. And then the other man, who was seeking to defeat you, withdraws in a sportsmanlike manner. The thing is, the power struggle doesn't end there. Having lost the dispute, he rushes on to the next stage.
-YOUTH: The next stage?
-PHILOSOPHER: Yes. It's the revenge stage. Though he has withdrawn for the time being, he will be scheming some revenge in another place and another form, and will reappear with an act of retaliation.
-YOUTH: Like what, for instance?
-PHILOSOPHER: The child oppressed by his parents will turn to delinquency. He'll stop going to school. He'll cut his wrists or engage in other acts of self-harm. In Freudian etiology, this is regarded as simple cause and effect: The parents raised the child in this way, and that is why the child grew up to be like this. It's just like pointing out that a plant wasn't watered, so it withered. It's an interpretation that is certainly easy to understand. But Adlerian teleology does not turn a blind eye to the goal that the child is hiding. That is to say, the goal of revenge on the parents. If he becomes a delinquent, stops going to school, cuts his wrists, or things like that, the parents will be upset. They'll panic and worry themselves sick over him. It is in the knowledge that this will happen that the child engages in problem behavior. So that the current goal (revenge on the parents) can be realized, not because he is motivated by past causes (home environment).
-YOUTH: He engages in problem behavior in order to upset his parents?
-PHILOSOPHER: That's right. There are probably a lot of people who feel mystified by seeing a child who cuts his wrists, and they think, Why would he do such a thing? But try to think how the people around the child--the parents, for instance--will feel as a result of the behavior of wrist cutting. If you do, the goal behind the behavior should come into view of its own accord.
-YOUTH: The goal being revenge?
-PHILOSOPHER: Yes. And once the interpersonal relationship reaches the revenge stage, it is almost impossible for either party to find a solution. To prevent this from happening, when one is challenged to a power struggle, one must never allow oneself to be taken in.
+HEADER3: Admitting Fault Is Not Defeat
+YOUTH: All right, then what should you do when you're subjected to personal attacks right to your face? Do you just grin and bear it?
+PHILOSOPHER: No, the idea that you are "bearing it" is proof that you are still stuck in the power struggle. When you are challenged to a fight, and you sense that it is a power struggle, step down from the conflict as soon as possible. Do not answer his action with a reaction. That is the only thing we can do.
+YOUTH: But is it really that easy to not respond to provocation? In the first place, how would you say I should control my anger?
+PHILOSOPHER: When you control your anger, you're "bearing it," right? Instead, let's learn a way to settle things without using the emotion of anger. Because after all, anger is a tool. A means for achieving a goal.
+YOUTH: That's a tough one.
+PHILOSOPHER: The first thing that I want you to understand here is the fact that anger is a form of communication, and that communication is nevertheless possible without using anger. We can convey our thoughts and intentions and be accepted without any need for anger. If you learn to understand this experientially, the anger emotion will stop appearing all on its own.
+YOUTH: But what if they come at you with mistaken accusations, or make insulting comments? I shouldn't get angry even then?
+PHILOSOPHER: You don't seem to understand yet. It's not that you mustn't get angry, but that there is no need to rely on the tool of anger. Irascible people do not have short tempers--it is only that they do not know that there are effective communication tools other than anger. That is why people end up saying things like "I just snapped" or, "He flew into a rage." We end up relying on anger to communicate.
+YOUTH: Effective communication tools other than anger . . .
+PHILOSOPHER: We have language. We can communicate through language. Believe in the power of language and the language of logic.
+YOUTH: Certainly, if I did not believe in that, we wouldn't be having this dialogue.
+PHILOSOPHER: One more thing about power struggles. In every instance, no matter how much you might think you are right, try not to criticize the other party on that basis. This is an interpersonal relationship trap that many people fall into.
+YOUTH: Why's that?
+PHILOSOPHER: The moment one is convinced that "I am right" in an interpersonal relationship, one has already stepped into a power struggle.
+YOUTH: Just because you think you're right? No way, that's just blowing things all out of proportion.
+PHILOSOPHER: I am right. That is to say, the other party is wrong. At that point, the focus of the discussion shifts from "the rightness of the assertions" to "the state of the interpersonal relationship." In other words, the conviction that "I am right" leads to the assumption that "this person is wrong," and finally it becomes a contest and you are thinking, I have to win. It's a power struggle through and through.
+YOUTH: Hmm.
+PHILOSOPHER: In the first place, the rightness of one's assertions has nothing to do with winning or losing. If you think you are right, regardless of what other people's opinions might be, the matter should be closed then and there. However, many people will rush into a power struggle and try to make others submit to them. And that is why they think of "admitting a mistake" as "admitting defeat."
+YOUTH: Yes, there definitely is that aspect.
+PHILOSOPHER: Because of one's mind-set of not wanting to lose, one is unable to admit one's mistake, the result being that one ends up choosing the wrong path. Admitting mistakes, conveying words of apology, and stepping down from power struggles--none of these things is defeat. The pursuit of superiority is not something that is carried out through competition with other people.
+YOUTH: So when you're hung up on winning and losing, you lose the ability to make the right choices?
+PHILOSOPHER: Yes. It clouds your judgment, and all you can see is imminent victory or defeat. Then you turn down the wrong path. It's only when we take away the lenses of competition and winning and losing that we can begin to correct and change ourselves.
