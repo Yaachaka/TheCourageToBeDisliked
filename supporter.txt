@@ -1,20 +1,34 @@
-HEADER3: Are You Okay Just As You Are?
-PHILOSOPHER: Okay, let's go back to your query. So you'd like to be a more upbeat person, like Y?
-YOUTH: But you just rejected that and said it was out of the question. Well, I guess that's just how it is. I was just saying that to give you a hard time--I know myself well enough. I could never be someone like that.
-PHILOSOPHER: Why not?
-YOUTH: It's obvious. Because we have different personalities, or I guess you could say dispositions.
-PHILOSOPHER: Hmm.
-YOUTH: You, for instance, live surrounded by all these books. You read a new book and gain new knowledge. Basically, you keep accumulating knowledge. The more you read, the more your knowledge increases. You find new concepts of value, and it seems to you that they change you. Look, I hate to break it to you, but no matter how much knowledge you gain, your disposition or personality isn't going to basically change. If your base gets skewed, all you've learned will be useless. Yes, all the knowledge you've acquired will come crashing down around you, and then the next thing you know, you'll be back to where you started! And the same goes for Adler's ideas. No matter how many facts I may try to accumulate about him, they're not going to have any effect on my personality. Knowledge just gets piled up as knowledge, until sooner or later it's discarded.
-PHILOSOPHER: Then let me ask you this. Why do you think you want to be like Y? I guess you just want to be a different person, whether it's Y or someone else. But what is the goal of that?
-YOUTH: You're talking about goals again? As I said earlier, it's just that I admire him and I think I'd be happier if I were like him.
-PHILOSOPHER: You think you'd be happier if you were like him. Which means that you are not happy now, right?
-YOUTH: What?
-PHILOSOPHER: Right now, you are unable to feel really happy. This is because you have not learned to love yourself. And to try to love yourself, you are wishing to be reborn as a different person. You're hoping to become like Y and throw away who you are now. Correct?
-YOUTH: Yes, I guess that's right! Let's face it: I hate myself! I, the one who's doing this playing around with old-fashioned philosophical discourse, and who just can't help doing this sort of thing--yes, I really hate myself.
-PHILOSOPHER: That's all right. If you were to ask around for people who say they like themselves, you'd be hard-pressed to find someone who'd puff up his or her chest with pride and say, <i>"Yes, I like myself."</i>
-YOUTH: How about you? Do you like yourself?
-PHILOSOPHER: At the very least, I do not think I would like to be a different person and I accept who I am.
-YOUTH: You accept who you are?
-PHILOSOPHER: Look, no matter how much you want to be Y, you cannot be reborn as him. You are not Y. It's okay for you to be you. However, I am not saying it's fine to be "just as you are." If you are unable to really feel happy, then it's clear that things aren't right just as they are. You've got to put one foot in front of the other, and not stop.
-YOUTH: That's a harsh way of putting it, but I get your point. It's clear that I'm not right just the way I am. I've got to move forward.
-PHILOSOPHER: To quote Adler again: <b>"The important thing is not what one is born with but what use one makes of that equipment."</b> You want to be Y or someone else because you are utterly focused on what you were born with. Instead, you've got to focus on what you can make of your equipment.
+HEADER3: People Always Choose Not to Change
+PHILOSOPHER: Sit down. As things stand, it's only natural that our views clash. I will now give a simple explanation as to the manner in which humans are understood in Adlerian psychology.
+YOUTH: Okay, but please be brief.
+PHILOSOPHER: Earlier you said that any person's disposition or personality cannot be changed. In Adlerian psychology, we describe personality and disposition with the word "lifestyle."
+YOUTH: Lifestyle?
+PHILOSOPHER: Yes. Lifestyle is the tendencies of thought and action in life.
+YOUTH: Tendencies of thought and action?
+PHILOSOPHER: How one sees the world. And how one sees oneself. Think of lifestyle as a concept bringing together these ways of finding meaning. In a narrow sense, lifestyle could be defined as someone's personality; taken more broadly, it is a word that encompasses the worldview of that person and his or her outlook on life.
+YOUTH: A person's view of the world?
+PHILOSOPHER: Say there's someone who worries about himself and says, "I am a pessimist." One could rephrase that to instead say, "I have a pessimistic view of the world." You could consider that the issue is not personality but rather the view of the world. It seems that the word "personality" is nuanced and suggests being unchangeable. But if we're talking about a view of the world, well, then, that should be possible to alter.
+YOUTH: Hmm. This is kind of confusing. When you speak of a lifestyle, do you mean a way of living?
+PHILOSOPHER: Yes, you could put it that way. To be a little more accurate, it is the way one's life should be. You probably think of disposition or personality as something with which you are endowed, without any connection to your will. In Adlerian psychology, however, lifestyle is thought of as something that you choose for yourself.
+YOUTH: That you choose for yourself?
+PHILOSOPHER: Yes, exactly. You choose your lifestyle.
+YOUTH: So not only did I choose to be unhappy, but I even went so far as to choose this warped personality, too?
+PHILOSOPHER: Absolutely.
+YOUTH: Ha! Now you're really pushing it. When I became aware, I already had this personality. I certainly don't have any recollection of having chosen it. But it's the same for you, isn't it? Being able to choose one's own personality at will . . . Now that sounds like you're talking about robots, not people.
+PHILOSOPHER: Of course, you did not consciously choose "this kind of self." Your first choice was probably unconscious, combined with external factors you have referred to--that is, race, nationality, culture, and home environment. These certainly had a significant influence on that choice. Nevertheless, it is you who chose "this kind of self."
+YOUTH: I don't get what you're saying. How on earth could I have chosen it?
+PHILOSOPHER: Adlerian psychology's view is that it happens around the age of ten.
+YOUTH: Well, for argument's sake--and now I'm really going out on a limb--say that when I was ten, I unconsciously made this choice of lifestyle or whatever. Would that even matter? You can call it personality or disposition or lifestyle, but, regardless, I had already become "this kind of self." The state of things doesn't change at all.
+PHILOSOPHER: That is not true. If your lifestyle is not something that you were naturally born with, but something you chose yourself, then it must be possible to choose it over again.
+YOUTH: Now you're saying I can choose it all over?
+PHILOSOPHER: Maybe you haven't been aware of your lifestyle until now, and maybe you haven't been aware of the concept of lifestyle either. Of course, no one can choose his or her own birth. Being born in this country, in this era, and with these parents are things you did not choose. And all these things have a great deal of influence. You'll probably face disappointment and start looking at other people and feeling, I wish I'd been born in their circumstances. But you can't let it end there. The issue is not the past, but here, in the present. And now you've learned about lifestyle. But what you do with it from here on is your responsibility. Whether you go on choosing the lifestyle you've had up till now, or you choose a new lifestyle altogether, it's entirely up to you.
+YOUTH: Then how do I choose again? You're telling me, "You chose that lifestyle yourself, so go ahead and select a new one instantly," but there's no way I can just change on the spot!
+PHILOSOPHER: Yes, you can. People can change at any time, regardless of the environments they are in. You are unable to change only because you are making the decision not to.
+YOUTH: What do you mean, exactly?
+PHILOSOPHER: People are constantly selecting their lifestyles. Right now, while we are having this tête-à-tête, we are selecting ours. You describe yourself as an unhappy person. You say that you want to change right this minute. You even claim that you want to be reborn as a different person. After all that, then why are you still unable to change? It is because you are making the persistent decision not to change your lifestyle.
+YOUTH: No, don't you see that's completely illogical? I do want to change; that is my sincere wish. So how could I be making the decision not to?
+PHILOSOPHER: Although there are some small inconveniences and limitations, you probably think that the lifestyle you have now is the most practical one, and that it's easier to leave things as they are. If you stay just like this, experience enables you to respond properly to events as they occur, while guessing the results of one's actions. You could say it's like driving your old, familiar car. It might rattle a bit, but one can take that into account and maneuver easily. On the other hand, if one chooses a new lifestyle, no one can predict what might happen to the new self, or have any idea how to deal with events as they arise. It will be hard to see ahead to the future, and life will be filled with anxiety. A more painful and unhappy life might lie ahead. Simply put, people have various complaints about things, but it's easier and more secure to be just the way one is.
+YOUTH: One wants to change, but changing is scary?
+PHILOSOPHER: When we try to change our lifestyles, we put our great courage to the test. There is the anxiety generated by changing, and the disappointment attendant to not changing. I am sure you have selected the latter.
+YOUTH: Wait . . . Just now, you used the word "courage."
+PHILOSOPHER: Yes. Adlerian psychology is a psychology of courage. Your unhappiness cannot be blamed on your past or your environment. And it isn't that you lack competence. You just lack courage. One might say you are lacking in the courage to be happy.
