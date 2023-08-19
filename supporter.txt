@@ -1,72 +1,20 @@
-HEADER3: Socrates and Adler
-YOUTH: All right. Let me tell you about another friend of mine, a man named Y. He's the kind of person who has always had a bright personality and talks easily to anyone. He's like a sunflower—everyone loves him, and people smile whenever he's around. In contrast, I am someone who has never had an easy time socially and who's kind of warped in various ways. Now, you are claiming that people can change through Adler's teleology?
-PHILOSOPHER: Yes. You and I and everyone can change.
-YOUTH: Then, do you think I could become someone like Y? From the bottom of my heart, I really wish I could be like him.
-PHILOSOPHER: At this point, I'd have to say that's totally out of the question.
-YOUTH: Aha! Now you're showing your true colors! So are you going to retract your theory?
-PHILOSOPHER: No, I am not. Unfortunately, you have almost no understanding of Adlerian psychology yet. The first step to change is knowing.
-YOUTH: So if I can understand just something about Adlerian psychology, can I become a person like Y?
-PHILOSOPHER: Why are you rushing for answers? You should arrive at answers on your own, not rely upon what you get from someone else. Answers from others are nothing more than stopgap measures; they're of no value. Take Socrates, who left not one book actually written by himself. He spent his days having public debates with the citizens of Athens, especially the young, and it was his disciple, Plato, who put his philosophy into writing for future generations. Adler, too, showed little interest in literary activities, preferring to engage in personal dialogue at cafés in Vienna, and hold small discussion groups. He was definitely not an armchair intellectual.
-YOUTH: So Socrates and Adler both conveyed their ideas by dialogue?
-PHILOSOPHER: That's right. All your doubts will be dispelled through this dialogue. And you will begin to change. Not by my words, but by your own doing. I do not want to take away that valuable process of arriving at answers through dialogue.
-YOUTH: So are we going to try and reenact the kind of dialogue that Socrates and Adler carried out? In this little study?
-PHILOSOPHER: Isn't that good enough for you?
-YOUTH: That's what I'm hoping to find out! So let's take it as far as we can, until either you retract your theory or I bow before you.
-
-
-	<hr class="contentDivide">
-	<div class="chapter_02p06" id="id-chapter_02p06">
-		<h3>Socrates and Adler</h3>
-		<div class="youth">
-			<p>All right. Let me tell you about another friend of mine, a man named Y. He's the kind of person who has always had a bright personality and talks easily to anyone. He's like a sunflower--everyone loves him, and people smile whenever he's around. In contrast, I am someone who has never had an easy time socially and who's kind of warped in various ways. Now, you are claiming that people can change through Adler's teleology?</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-		<div class="philosopher">
-			<img src="./images/philosopher.png" alt=>
-			<p>Yes. You and I and everyone can change.</p>
-		</div>
-		<div class="youth">
-			<p>Then, do you think I could become someone like Y? From the bottom of my heart, I really wish I could be like him.</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-		<div class="philosopher">
-			<img src="./images/philosopher.png" alt=>
-			<p>At this point, I'd have to say that's totally out of the question.</p>
-		</div>
-		<div class="youth">
-			<p>Aha! Now you're showing your true colors! So are you going to retract your theory?</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-		<div class="philosopher">
-			<img src="./images/philosopher.png" alt=>
-			<p>No, I am not. Unfortunately, you have almost no understanding of Adlerian psychology yet. The first step to change is knowing.</p>
-		</div>
-		<div class="youth">
-			<p>So if I can understand just something about Adlerian psychology, can I become a person like Y?</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-		<div class="philosopher">
-			<img src="./images/philosopher.png" alt=>
-			<p>Why are you rushing for answers? You should arrive at answers on your own, not rely upon what you get from someone else. Answers from others are nothing more than stopgap measures; they're of no value. Take Socrates, who left not one book actually written by himself. He spent his days having public debates with the citizens of Athens, especially the young, and it was his disciple, Plato, who put his philosophy into writing for future generations. Adler, too, showed little interest in literary activities, preferring to engage in personal dialogue at cafΓö£ΓîÉs in Vienna, and hold small discussion groups. He was definitely not an armchair intellectual.</p>
-		</div>
-		<div class="youth">
-			<p>So Socrates and Adler both conveyed their ideas by dialogue?</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-		<div class="philosopher">
-			<img src="./images/philosopher.png" alt=>
-			<p>That's right. All your doubts will be dispelled through this dialogue. And you will begin to change. Not by my words, but by your own doing. I do not want to take away that valuable process of arriving at answers through dialogue.</p>
-		</div>
-		<div class="youth">
-			<p>So are we going to try and reenact the kind of dialogue that Socrates and Adler carried out? In this little study?</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-		<div class="philosopher">
-			<img src="./images/philosopher.png" alt=>
-			<p>Isn't that good enough for you?</p>
-		</div>
-		<div class="youth">
-			<p>That's what I'm hoping to find out! So let's take it as far as we can, until either you retract your theory or I bow before you</p>
-			<img src="./images/youth.png" alt=>
-		</div>
-	</div>
+HEADER3: Are You Okay Just As You Are?
+PHILOSOPHER: Okay, let's go back to your query. So you'd like to be a more upbeat person, like Y?
+YOUTH: But you just rejected that and said it was out of the question. Well, I guess that's just how it is. I was just saying that to give you a hard time--I know myself well enough. I could never be someone like that.
+PHILOSOPHER: Why not?
+YOUTH: It's obvious. Because we have different personalities, or I guess you could say dispositions.
+PHILOSOPHER: Hmm.
+YOUTH: You, for instance, live surrounded by all these books. You read a new book and gain new knowledge. Basically, you keep accumulating knowledge. The more you read, the more your knowledge increases. You find new concepts of value, and it seems to you that they change you. Look, I hate to break it to you, but no matter how much knowledge you gain, your disposition or personality isn't going to basically change. If your base gets skewed, all you've learned will be useless. Yes, all the knowledge you've acquired will come crashing down around you, and then the next thing you know, you'll be back to where you started! And the same goes for Adler's ideas. No matter how many facts I may try to accumulate about him, they're not going to have any effect on my personality. Knowledge just gets piled up as knowledge, until sooner or later it's discarded.
+PHILOSOPHER: Then let me ask you this. Why do you think you want to be like Y? I guess you just want to be a different person, whether it's Y or someone else. But what is the goal of that?
+YOUTH: You're talking about goals again? As I said earlier, it's just that I admire him and I think I'd be happier if I were like him.
+PHILOSOPHER: You think you'd be happier if you were like him. Which means that you are not happy now, right?
+YOUTH: What?
+PHILOSOPHER: Right now, you are unable to feel really happy. This is because you have not learned to love yourself. And to try to love yourself, you are wishing to be reborn as a different person. You're hoping to become like Y and throw away who you are now. Correct?
+YOUTH: Yes, I guess that's right! Let's face it: I hate myself! I, the one who's doing this playing around with old-fashioned philosophical discourse, and who just can't help doing this sort of thing--yes, I really hate myself.
+PHILOSOPHER: That's all right. If you were to ask around for people who say they like themselves, you'd be hard-pressed to find someone who'd puff up his or her chest with pride and say, <i>"Yes, I like myself."</i>
+YOUTH: How about you? Do you like yourself?
+PHILOSOPHER: At the very least, I do not think I would like to be a different person and I accept who I am.
+YOUTH: You accept who you are?
+PHILOSOPHER: Look, no matter how much you want to be Y, you cannot be reborn as him. You are not Y. It's okay for you to be you. However, I am not saying it's fine to be "just as you are." If you are unable to really feel happy, then it's clear that things aren't right just as they are. You've got to put one foot in front of the other, and not stop.
+YOUTH: That's a harsh way of putting it, but I get your point. It's clear that I'm not right just the way I am. I've got to move forward.
+PHILOSOPHER: To quote Adler again: <b>"The important thing is not what one is born with but what use one makes of that equipment."</b> You want to be Y or someone else because you are utterly focused on what you were born with. Instead, you've got to focus on what you can make of your equipment.
