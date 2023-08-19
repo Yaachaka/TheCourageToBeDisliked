@@ -204,6 +204,15 @@ main .container .middle .firstPage .mainTitle h1, h2
 	color:rgb(58, 5, 248);
 }
 
+main .container .middle h3
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgb(32, 113, 235);
+}
+
 main .container .middle .firstPage .subTitle h4
 {
 	width: 100%;
