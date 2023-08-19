@@ -1,20 +1,29 @@
-HEADER2: THE FIRST NIGHT: Deny Trauma
-NARRATOR: The young man entered the study and sat slouched in a chair. Why was he so determined to reject the philosopher's theories? His reasons were abundantly clear. He lacked selfconfidence and, ever since childhood, this had been compounded by deep-seated feelings of inferiority with regard to his personal and academic backgrounds, as well as his physical appearance. Perhaps, as a result, he tended to be excessively self-conscious when people looked at him. Mostly, he seemed incapable of truly appreciating other people's happiness and was constantly pitying himself. To him, the philosopher's claims were nothing more than the stuff of fantasy.
-HEADER3: The Unknown Third Giant
-YOUTH: A moment ago, you used the words "another philosophy", but I've heard that your specialty is in Greek philosophy.
-PHILOSOPHER: Yes, Greek philosophy has been central to my life ever since I was a teenager. The great intellectual figures: Socrates, Plato, Aristotle. I am translating a work by Plato at the moment, and I expect to spend the rest of my life studying classical Greek thought.
-YOUTH: Well, then what is this "other philosophy"?
-PHILOSOPHER: It is a completely new school of psychology that was established by the Austrian psychiatrist Alfred Adler at the beginning of the twentieth century. It is generally referred to as Adlerian psychology.
-YOUTH: Huh. I never would have imagined that a specialist in Greek philosophy would be interested in psychology.
-PHILOSOPHER: I'm not very familiar with paths taken by other schools of psychology. However, I think it is fair to say that Adlerian psychology is clearly in line with Greek philosophy, and that it is a proper field of study.
-YOUTH: I have a passing knowledge of the psychology of Freud and Jung. A fascinating field.
-PHILOSOPHER: Yes, Freud and Jung are both renowned. Adler was one of the original core members of the Vienna Psychoanalytic Society, which was led by Freud. His ideas were counter to Freud's, and he split from the group and proposed an "individual psychology" based on his own original theories.
-YOUTH: Individual psychology? Another odd term. So Adler was a disciple of Freud's?
-PHILOSOPHER: No, he was not. That misconception is common; we must dispel it. For one thing, Adler and Freud were relatively close in age, and the relationship they formed as researchers was founded upon equal footing. In this respect, Adler was very different from Jung, who revered Freud as a father figure. Though psychology primarily tends to be associated with Freud and Jung, Adler is recognized throughout the rest of the world, along with Freud and Jung, as one of the three giants in this field.
-YOUTH: I see. I should have studied it more.
-PHILOSOPHER: I suppose it's only natural you haven't heard of Adler. As he himself said, <i>"There might come a time when one will not remember my name; one might even have forgotten that our school ever existed."</i> Then he went on to say that it didn't matter. The implication being that if his school were forgotten, it would be because his ideas had outgrown the bounds of a single area of scholarship, and become commonplace, and a feeling shared by everyone. For example, Dale Carnegie, who wrote the international bestsellers <b>How to Win Friends and Influence People and How to Stop Worrying and Start Living</b>, referred to Adler as "a great psychologist who devoted his life to researching humans and their latent abilities." The influence of Adler's thinking is clearly present throughout his writings. And in Stephen Covey's <b>The 7 Habits of Highly Effective People</b>, much of the content closely resembles Adler's ideas. In other words, rather than being a strict area of scholarship, Adlerian psychology is accepted as a realization, a culmination of truths and of human understanding. Yet Adler's ideas are said to have been a hundred years ahead of their time, and even today we have not managed to fully comprehend them. That is how truly groundbreaking they were.
-YOUTH: So your theories are developed not from Greek philosophy initially but from the viewpoint of Adlerian psychology?
-PHILOSOPHER: Yes, that's right.
-YOUTH: Okay. There's one more thing I'd like to ask about your basic stance. Are you a philosopher? Or are you a psychologist?
-PHILOSOPHER: I am a philosopher, a person who lives philosophy. And, for me, Adlerian psychology is a form of thought that is in line with Greek philosophy, and that is philosophy.
-YOUTH: All right, then. Let's get started.
+HEADER3: Why People Can Change
+YOUTH: First, let's plan the points of discussion. You say people can change. Then you take it a step further, saying that everyone can find happiness.
+PHILOSOPHER: Yes, everyone, without exception.
+YOUTH: Let's save the discussion about happiness for later and address change first. Everyone wishes they could change. I know I do, and I'm sure anyone you might stop and ask on the street would agree. But why does everyone feel they want to change? There's only one answer: because they cannot change. If it were easy for people to change, they wouldn't spend so much time wishing they could. No matter how much they wish it, people cannot change. And that's why there are always so many people getting taken in by new religions and dubious self-help seminars and any preaching on how everyone can change. Am I wrong?
+PHILOSOPHER: Well, in response, I'd ask why you are so adamant that people can't change.
+YOUTH: Here's why. I have a friend, a guy, who has shut himself in his room for several years. He wishes he could go out and even thinks he'd like to have a job, if possible. So he wants to change the way he is. I say this as his friend, but I assure you he is a very serious person who could be of great use to society. Except that he's afraid to leave his room. If he takes even a single step outside, he suffers palpitations, and his arms and legs shake. It's a kind of neurosis or panic, I suppose. He wants to change, but he can't.
+PHILOSOPHER: What do you think the reason is that he can't go out?
+YOUTH: I'm not really sure. It could be because of his relationship with his parents, or because he was bullied at school or work. He might have experienced a kind of trauma from something like that. But then, it could be the opposite—maybe he was too pampered as a child and can't face reality. I just don't know, and I can't pry into his past or his family situation.
+PHILOSOPHER: So you are saying there were incidents in your friend's past that became the cause of trauma, or something similar, and as a result he can't go out anymore?
+YOUTH: Of course. Before an effect, there's a cause. There is nothing mysterious about that.
+PHILOSOPHER: Then perhaps the cause of his not being able to go out anymore lies in the home environment during his childhood. He was abused by his parents and reached adulthood without ever feeling love. That's why he's afraid of interacting with people and why he can't go out. It's feasible, isn't it?
+YOUTH: Yes, it's entirely feasible. I'd imagine that would be really challenging.
+PHILOSOPHER: And then you say, <i>"Before an effect, there's a cause."</i> Or, in other words, who I am now (the effect) is determined by occurrences in the past (the causes). Do I understand correctly?
+YOUTH: You do.
+PHILOSOPHER: So if the here and now of everyone in the world is due to their past incidents, according to you, wouldn't things turn out very strangely? Don't you see? Everyone who has grown up abused by his or her parents would have to suffer the same effects as your friend and become a recluse, or the whole idea just doesn't hold water. That is, if the past actually determines the present, and the causes control the effects.
+YOUTH: What, exactly, are you getting at?
+PHILOSOPHER: If we focus only on past causes and try to explain things solely through cause and effect, we end up with "determinism." Because what this says is that our present and our future have already been decided by past occurrences, and are unalterable. Am I wrong?
+YOUTH: So you're saying that the past doesn't matter?
+PHILOSOPHER: Yes, that is the standpoint of Adlerian psychology.
+YOUTH: I see. The points of conflict seem a bit clearer. But look, if we go by your version, wouldn't that ultimately mean that there's no reason my friend can't go out anymore? Because you're saying that past incidents don't matter. I'm sorry, but that's completely out of the question. There has to be some reason behind his seclusion. There has to be, or there'd be no explanation!
+PHILOSOPHER: Indeed, there would be no explanation. So in Adlerian psychology, we do not think about past "causes" but rather about present "goals."
+YOUTH: Present goals?
+PHILOSOPHER: Your friend is insecure, so he can't go out. Think about it the other way around. He doesn't want to go out, so he's creating a state of anxiety.
+YOUTH: Huh?
+PHILOSOPHER: Think about it this way. Your friend had the goal of not going out beforehand, and he's been manufacturing a state of anxiety and fear as a means to achieve that goal. In Adlerian psychology, this is called <b>"teleology."</b>
+YOUTH: You're joking! My friend has imagined his anxiety and fear? So would you go so far as saying that my friend is just pretending to be sick?
+PHILOSOPHER: He is not pretending to be sick. The anxiety and fear your friend is feeling are real. On occasion, he might also suffer from migraines and violent stomach cramps. However, these too are symptoms that he has created in order to achieve the goal of not going out.
+YOUTH: That's not true! No way! That's too depressing!
+PHILOSOPHER: No. This is the difference between etiology (the study of causation) and teleology (the study of the purpose of a given phenomenon, rather than its cause). Everything you have been telling me is based in etiology. As long as we stay in etiology, we will not take a single step forward.
