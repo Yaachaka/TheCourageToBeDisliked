@@ -1,18 +1,36 @@
-HEADER3: All Problems Are Interpersonal Relationship Problems
-YOUTH: Wait a minute! I'm supposed to just let that one slip by? "To get rid of one's problems, all one can do is live in the universe all alone"? What do you mean by that? If you lived all alone, wouldn't you be horribly lonely?
-PHILOSOPHER: Oh, but being alone isn't what makes you feel lonely. Loneliness is having other people and society and community around you, and having a deep sense of being excluded from them. To feel lonely, we need other people. That is to say, it is only in social contexts that a person becomes an "individual."
-YOUTH: If you were really alone, that is, if you existed completely alone in the universe, you wouldn't be an individual and you wouldn't feel lonely, either?
-PHILOSOPHER: I suppose the very concept of loneliness wouldn't even come up. You wouldn't need language, and there'd be no use for logic or common sense, either. But such a thing is impossible. Even if you lived on an uninhabited island, you would think about someone far across the ocean. Even if you spend your nights alone, you strain your ears to hear the sound of someone's breath. As long as there is someone out there somewhere, you will be haunted by loneliness.
-YOUTH: But then you could just rephrase that as, "If one could live in the universe all alone, one's problems would go away," couldn't you?
-PHILOSOPHER: In theory, yes. As Adler goes so far as to assert, <b>"All problems are interpersonal relationship problems."</b>
-YOUTH: Can you say that again?
-PHILOSOPHER: We can repeat it as many times as you like: All problems are interpersonal relationship problems. This is a concept that runs to the very root of Adlerian psychology. If all interpersonal relationships were gone from this world, which is to say if one were alone in the universe and all other people were gone, all manner of problems would disappear.
-YOUTH: That's a lie! It's nothing more than academic sophistry.
-PHILOSOPHER: Of course, we cannot do without interpersonal relationships. A human being's existence, in its very essence, assumes the existence of other human beings. Living completely separate from others is, in principle, impossible. As you are indicating, the premise "If one could live all alone in the universe" is unsound.
-YOUTH: That's not the issue I am talking about. Sure, interpersonal relationships are probably a big problem. That much I acknowledge. But to say that everything comes down to interpersonal relationship problems, now that's really an extreme position. What about the worry of being cut off from interpersonal relationships, the kind of problems that an individual agonizes over as an individual, problems directed to oneself? Do you deny all that?
-PHILOSOPHER: <b>There is no such thing as worry that is completely defined by the individual; so-called internal worry does not exist. Whatever the worry that may arise, the shadows of other people are always present.</b>
-YOUTH: But still, you're a philosopher. Human beings have loftier, greater problems than things like interpersonal relationships. What is happiness? What is freedom? And what is the meaning of life? Aren't these the themes that philosophers have been investigating ever since the ancient Greeks? And you're saying, So what? Interpersonal relationships are everything? It seems kind of pedestrian to me. It's hard to believe that a philosopher would say such things.
-PHILOSOPHER: Well, then, it seems there's a need to explain things a bit more concretely.
-YOUTH: Yes, please do! If you're going to tell me that you're a philosopher, then you've got to really explain things, or else this makes no sense.
-PHILOSOPHER: You were so afraid of interpersonal relationships that you came to dislike yourself. You've avoided interpersonal relationships by disliking yourself. 
-NARRATOR: These assertions shook the youth to his very core. The words had an undeniable truth that seemed to pierce his heart. Even so, he had to find a clear rebuttal to the statement that all the problems that people experience are interpersonal relationship problems. Adler was trivializing people's issues. The problems I'm suffering from aren't so mundane!
+HEADER3: Feelings of Inferiority Are Subjective Assumptions
+PHILOSOPHER: Let's look at interpersonal relationships from a slightly different perspective. Are you familiar with the term "feeling of inferiority"?
+YOUTH: What a silly question. As you can surely tell from our discussion up to now, I'm just a huge blob of feelings of inferiority.
+PHILOSOPHER: What are those feelings, specifically?
+YOUTH: Well, for instance, if I see something in a newspaper about a person around my age, someone who's really successful, I'm always overcome with these feelings of inferiority. If someone else who's lived the same amount of time I have is so successful, then what on earth am I doing with myself? Or when I see a friend who seems happy, before I even feel like celebrating with him, I'm filled with envy and frustration. Of course, this pimple-covered face doesn't help matters, and I've got strong feelings of inferiority when it comes to my education and occupation. And then there's my income and social standing. I guess I'm just completely riddled with feelings of inferiority.
+PHILOSOPHER: I see. Incidentally, Adler is thought to be the first to use the term "feeling of inferiority" in the kind of context in which it is spoken of today.
+YOUTH: Huh, I didn't know that.
+PHILOSOPHER: In Adler's native German, the word is Minderwertigkeitsgefühl, which means a feeling (Gefühl) of having less (minder) worth (Wert). So "feeling of inferiority" has to do with one's value judgment of oneself.
+YOUTH: Value judgment?
+PHILOSOPHER: It's the feeling that one has no worth, or that one is worth only so much.
+YOUTH: Ah, that's a feeling I know well. That's me in a nutshell. Not a day goes by without me tormenting myself that there's no point in being alive.
+PHILOSOPHER: Well, then, let's have a look at my own feelings of inferiority. When you first met me, what was your impression? In terms of physical characteristics.
+YOUTH: Um, well . . .
+PHILOSOPHER: There's no need to hold back. Be direct.
+YOUTH: All right, I guess you were smaller than I'd imagined.
+PHILOSOPHER: Thank you. I am 61 inches tall. Adler was apparently around the same height. There was a time--until I was right around your age, actually--when I was concerned about my height. I was sure that things would be different if I were of average height, eight or even just four inches taller. As if a more enjoyable life were waiting for me. I talked to a friend about it when I was having these feelings, and he said it was "a bunch of nonsense" and simply dismissed it.
+YOUTH: That's horrible! Some friend.
+PHILOSOPHER: And then he said, "What would you do if you got taller? You know, you've got a gift for getting people to relax." With a man who's big and strong, it's true, it does seem he can end up intimidating people just because of his size. With someone small like me, on the other hand, people let go of their wariness. So it made me realize that having a small build was a desirable thing both to me and to those around me. In other words, there was a transformation of values. I'm not worried about my height anymore.
+YOUTH: Okay, but that's--
+PHILOSOPHER: Wait until I am finished. The important thing here is that my height of 61 inches wasn't inferior.
+YOUTH: It wasn't inferior?
+PHILOSOPHER: It was not, in fact, lacking in or lesser than something. Sure, my 61 inches is less than the average height, and an objectively measured number. At first glance, one might think it inferior. But the issue is really what sort of meaning I attribute to that height, what sort of value I give it.
+YOUTH: What does that mean?
+PHILOSOPHER: My feelings about my height were all subjective feelings of inferiority, which arose entirely through my comparing myself to others. That is to say, in my interpersonal relationships. Because if there hadn't been anyone with whom to compare myself, I wouldn't have had any occasion to think I was short. Right now, you too are suffering from various feelings of inferiority. But please understand that what you are feeling is not an objective inferiority but a subjective feeling of inferiority. Even with an issue like height, it's all reduced to its subjectivity.
+YOUTH: In other words, the feelings of inferiority we're suffering from are subjective interpretations rather than objective facts?
+PHILOSOPHER: Exactly. Seeing it from my friend's point of view that I get people to relax or that I don't intimidate them--such aspects can become strong points. Of course, this is a subjective interpretation. You could even say it's an arbitrary assumption. However, there is one good thing about subjectivity: It allows you to make your own choice. Precisely because I am leaving it to subjectivity, the choice to view my height as either an advantage or disadvantage is left open to me.
+YOUTH: The argument that you can choose a new lifestyle?
+PHILOSOPHER: That's right. We cannot alter objective facts. But subjective interpretations can be altered as much as one likes. And we are inhabitants of a subjective world. We talked about this at the very beginning, right?
+YOUTH: Yes; the well water that's sixty degrees.
+PHILOSOPHER: Now, remember the German word for a feeling of inferiority, Minderwertigkeitsgefühl. As I mentioned a moment ago, "feeling of inferiority" is a term that has to do with one's value judgment of oneself. So what on earth could this value be? Okay, take diamonds, for instance, which are traded at a high value. Or currency. We find particular values for these things and say that one carat is this much, that prices are such and such. But if you change your point of view, a diamond is nothing but a little stone.
+YOUTH: Well, intellectually it is.
+PHILOSOPHER: In other words, value is something that's based on a social context. The value given to a one-dollar bill is not an objectively attributed value, though that might be a commonsense approach. If one considers its actual cost as printed material, the value is nowhere near a dollar. If I were the only person in this world and no one else existed, I'd probably be putting those one-dollar bills in my fireplace in wintertime. Maybe I'd be using them to blow my nose. Following exactly the same logic, there should have been no reason at all for me to worry about my height.
+YOUTH: If you were the only person in this world and no one else existed?
+PHILOSOPHER: Yes. The problem of value in the end brings us back to interpersonal relationships again.
+YOUTH: So this connects to what you were saying about all problems being interpersonal relationship problems?
+PHILOSOPHER: Yes, that's correct.
