@@ -15,7 +15,7 @@ for i in range(arr1_len):
 	elif "HEADER3: " in arr1[i]:
 		# print("\t</div>")
 		print("\t<hr class=\"contentDivide\">")
-		print("\t<div class=\"chapter_03p11\" id=\"id-chapter_03p11\">")
+		print("\t<div class=\"chapter_03p12\" id=\"id-chapter_03p12\">")
 		print("\t\t<h3>" + var1 + "</h3>")
 	elif "NARRATOR: " in arr1[i]:
 		print("\t\t<div class=\"narrator\">")
