@@ -1,25 +1,18 @@
-HEADER3: Don't Fall for the "Life-Lie"
-YOUTH: Ah, it's getting confusing again. You said that I see other people as enemies and can't think of them as comrades because I'm running away from my life tasks. What was that supposed to mean, anyway?
-PHILOSOPHER: Suppose, for instance, that there is a certain Mr. A whom you don't like because he has some flaws that are hard to forgive.
-YOUTH: Ha-ha, if we're looking for people I don't like, there's no shortage of candidates.
-PHILOSOPHER: But it isn't that you dislike Mr. A because you can't forgive his flaws. You had the goal of taking a dislike to Mr. A beforehand and then started looking for the flaws to satisfy that goal.
-YOUTH: That's ridiculous! Why would I do that?
-PHILOSOPHER: So that you could avoid an interpersonal relationship with Mr. A.
-YOUTH: No way, that's completely out of the question. It's obvious that the order of things is backward. He did something I didn't like, that's why. If he hadn't, I'd have no reason for taking a dislike to him.
-PHILOSOPHER: No, you are wrong. It's easy to see if you think back on the example of separating from a person whom one has been in a love relationship with. In relationships between lovers or married couples, there are times when, after a certain point, one becomes exasperated with everything one's partner says or does. For instance, she doesn't care for the way he eats; his slovenly appearance at home fills her with revulsion, and even his snoring sets her off. Even though until a few months ago, none of it had ever bothered her before.
-YOUTH: Yes, that sounds familiar.
-PHILOSOPHER: The person feels this way because at some stage she has resolved to herself, I want to end this relationship, and she has been looking around for the material with which to end it. The other person hasn't changed at all. It is her own goal that has changed. Look, people are extremely selfish creatures who are capable of finding any number of flaws and shortcomings in others whenever the mood strikes them. A man of perfect character could come along, and one would have no difficulty in digging up some reason to dislike him. That's exactly why the world can become a perilous place at any time, and it's always possible to see everyone as one's enemies.
-YOUTH: So I am making up flaws in other people just so that I can avoid my life tasks, and further more, so I can avoid interpersonal relationships? And I am running away by thinking of other people as my enemies?
-PHILOSOPHER: That's right. Adler called the state of coming up with all manner of pretexts in order to avoid the life tasks the "life-lie."
-YOUTH: Okay . . .
-PHILOSOPHER: Yes, it's a severe term. One shifts one's responsibility for the situation one is currently in to someone else. One is running away from one's life tasks by saying that everything is the fault of other people, or the fault of one's environment. It's exactly the same as with the story I mentioned earlier about the female student with the fear of blushing. One lies to oneself, and one lies to the people around one, too. When you really think about it, it's a pretty severe term.
-YOUTH: But how can you conclude that I am lying? You don't know anything about what kind of people I have around me, or what kind of life I lead, do you?
-PHILOSOPHER: True, I don't know anything about your past. Not about your parents, or your elder brother either. I know only one thing.
-YOUTH: What's that?
-PHILOSOPHER: The fact that you--and no one else--are the one who decided your lifestyle.
-YOUTH: Argh!
-PHILOSOPHER: If your lifestyle were determined by other people or your environment, it would certainly be possible to shift responsibility. But we choose our lifestyles ourselves. It's clear where the responsibility lies.
-YOUTH: So you're out to condemn me. But you're calling people liars and cowards. And saying that everyone is my responsibility.
-PHILOSOPHER: You must not use the power of anger to look away. This is a very important point. Adler never discusses the life tasks or life-lies in terms of good and evil. It is not morals or good and evil that we should be discussing, but the issue of courage.
-YOUTH: Courage again!
-PHILOSOPHER: Yes. Even if you are avoiding your life tasks and clinging to your life-lies, it isn't because you are steeped in evil. It is not an issue to be condemned from a moralistic standpoint. It is only an issue of courage.
+HEADER3: From the Psychology of Possession to the Psychology of Practice
+YOUTH: So in the end what you're talking about is courage? That reminds me, last time you said that Adlerian psychology is a "psychology of courage."
+PHILOSOPHER: I will add to that by saying that Adlerian psychology is not a "psychology of possession" but a "psychology of use."
+YOUTH: So it's that statement: "It's not what one is born with but what use one makes of that equipment."
+PHILOSOPHER: That's right. Thank you for remembering it. Freudian etiology is a psychology of possession, and eventually it arrives at determinism. Adlerian psychology, on the other hand, is a psychology of use, and it is you who decides it.
+YOUTH: Adlerian psychology is a psychology of courage, and at the same time it is a psychology of use . . .
+PHILOSOPHER: We humans are not so fragile as to simply be at the mercy of etiological (cause and effect) traumas. From the standpoint of teleology, we choose our lives and our lifestyles ourselves. We have the power to do that.
+YOUTH: But, honestly, I do not have the confidence to overcome my inferiority complex. And you might say that that's a life-lie, but I probably won't ever be able to break free from the inferiority complex.
+PHILOSOPHER: Why don't you think so?
+YOUTH: Maybe what you are saying is right. Actually, I'm sure it is, and courage really is what I am lacking. I can accept the life-lie as well. I am scared of interacting with people. I don't want to get hurt in interpersonal relationships, and I want to put off my life tasks. That's why I have all these excuses ready. Yes, it's exactly as you say. But isn't what you are talking about a kind of spiritualism? All you're really saying is, "You've lost your courage, you've got to pluck up your courage." It's no different from the silly instructor who thinks he's giving you advice when he comes up and slaps you on the shoulder and says, "Cheer up." Even though the reason I'm not doing well is because I can't just cheer up!
+PHILOSOPHER: So what you are saying is that you would like me to suggest some specific steps?
+YOUTH: Yes, please. I am a human being. I am not a machine. I've been told that I'm all out of courage, but I can't just get a refill of courage as if I were filling up my tank with fuel.
+PHILOSOPHER: All right. But we've gone quite late again tonight, so let's continue this next time.
+YOUTH: You aren't running away from it, right?
+PHILOSOPHER: Of course not. Next time, we will probably discuss freedom.
+YOUTH: Not courage?
+PHILOSOPHER: Yes, it will be a discussion of freedom, which is essential when talking about courage. Please give some thought to the matter of what freedom is.
+YOUTH: What freedom is . . . Fine. I am looking forward to next time.

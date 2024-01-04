@@ -4,6 +4,8 @@ with open("supporter.txt", "r") as file1:
 	for line in file1:
 		arr1.append(line)
 
+chapter_x = "chapter_03p13"
+
 # print("\t<hr class=\"contentDivide\">")
 # print("\t<div class=\"chapter_03\" id=\"id-chapter_03\">")
 arr1_len = len(arr1)
@@ -15,7 +17,7 @@ for i in range(arr1_len):
 	elif "HEADER3: " in arr1[i]:
 		# print("\t</div>")
 		print("\t<hr class=\"contentDivide\">")
-		print("\t<div class=\"chapter_03p12\" id=\"id-chapter_03p12\">")
+		print("\t<div class=\"{}\" id=\"id-{}\">".format(chapter_x, chapter_x))
 		print("\t\t<h3>" + var1 + "</h3>")
 	elif "NARRATOR: " in arr1[i]:
 		print("\t\t<div class=\"narrator\">")
@@ -31,4 +33,4 @@ for i in range(arr1_len):
 		print("\t\t\t<img src=\"./images/philosopher.png\" alt="">")
 		print("\t\t\t<p>" + var1 + "</p>")
 		print("\t\t</div>")
-print("\t</div>")
+print("\t</div>  <!-- End of {} -->".format(chapter_x))
