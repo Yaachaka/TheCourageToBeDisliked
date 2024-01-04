@@ -4,10 +4,10 @@ with open("supporter.txt", "r") as file1:
 	for line in file1:
 		arr1.append(line)
 
-chapter_x = "chapter_03p13"
+chapter_x = "chapter_04p01"
 
-# print("\t<hr class=\"contentDivide\">")
-# print("\t<div class=\"chapter_03\" id=\"id-chapter_03\">")
+print("\t<hr class=\"contentDivide\">")  # For chapter
+print("\t<div class=\"chapter_04\" id=\"id-chapter_04\">")  # For chapter
 arr1_len = len(arr1)
 for i in range(arr1_len):
 	pos = arr1[i].index(": ")
@@ -15,7 +15,7 @@ for i in range(arr1_len):
 	if "HEADER2: " in arr1[i]:
 		print("\t<h2>" + var1 + "</h2>")
 	elif "HEADER3: " in arr1[i]:
-		# print("\t</div>")
+		print("\t</div>")  # For chapters
 		print("\t<hr class=\"contentDivide\">")
 		print("\t<div class=\"{}\" id=\"id-{}\">".format(chapter_x, chapter_x))
 		print("\t\t<h3>" + var1 + "</h3>")
