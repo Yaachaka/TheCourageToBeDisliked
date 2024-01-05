@@ -1,28 +1,15 @@
-HEADER3: The Goal of Interpersonal Relationships Is a Feeling of Community
-YOUTH: Okay, I have a question. Please give me a simple answer that gets straight to the heart of the matter. You said that the separating of tasks is the point of departure for interpersonal relations. Well, what is the goal of interpersonal relations?
-PHILOSOPHER: To get straight to the heart of the matter, it is "community feeling."
-YOUTH: . . . Community feeling?
-PHILOSOPHER: Yes. This is a key concept in Adlerian psychology, and views on its application have been the subject of much debate. In fact, Adler's proposal of the concept of community feeling drove many people to part ways with him.
-YOUTH: Well, it sounds fascinating to me. What is this concept?
-PHILOSOPHER: It was the time before last, I believe, that I brought up the matter of how one sees others, that is, as enemies or as comrades. Now, take that a step deeper. If other people are our comrades, and we live surrounded by them, we should be able to find in that life our own place of "refuge." Moreover, in doing so, we should begin to have the desire to share with our comrades, to contribute to the community. This sense of others as comrades, this awareness of "having one's own refuge," is called "community feeling."
-YOUTH: But what part of this is open to debate? It seems like a completely irrefutable point.
-PHILOSOPHER: The issue is community. What does it consist of? When you hear the word "community," what images come to mind?
-YOUTH: There are such frameworks as one's household, school, workplace, or local society.
-PHILOSOPHER: When Adler refers to community, he goes beyond the household, school, workplace, and local society, and treats it as all-inclusive, covering not only nations and all of humanity but also the entire axis of time from the past to the future--and he includes plants and animals and even inanimate objects.
-YOUTH: Huh?
-PHILOSOPHER: In other words, he is espousing that community is not merely one of the preexisting frameworks that the word might bring to mind but is also inclusive of literally everything--the entire universe, from the past to the future.
-YOUTH: No way. Now you've lost me. The universe? Past and future? What on earth are you talking about?
-PHILOSOPHER: The majority of those who hear this have similar doubts. This is not something one can comprehend immediately. Adler himself acknowledged that the community he was espousing was "an unattainable ideal."
-YOUTH: Ha-ha. Well, that's perplexing, isn't it? How about the other way around, then? Do you really comprehend and accept this community feeling, or whatever it is, that includes the entire universe?
-PHILOSOPHER: I try to. Because I feel that one cannot truly comprehend Adlerian psychology without comprehending this point.
-YOUTH: Okay then!
-PHILOSOPHER: As I have been saying all along, Adlerian psychology has the view that all problems are interpersonal relationship problems. Interpersonal relations are the source of unhappiness. And the opposite can be said, too--interpersonal relations are the source of happiness.
-YOUTH: Indeed.
-PHILOSOPHER: Furthermore, community feeling is the most important index for considering a state of interpersonal relations that is happy.
-YOUTH: All right. I'd like to hear all about it.
-PHILOSOPHER: Community feeling is also referred to as "social interest," that is to say, "interest in society." So now I have a question for you: Do you know what society's smallest unit is, from the point of view of sociology?
-YOUTH: Society's smallest unit, huh? I'd say the family.
-PHILOSOPHER: No, it is "you and I." When there are two people, society emerges in their presence, and community emerges there too. To gain an understanding of the community feeling that Adler speaks of, it is advisable to use "you and I" as the starting point.
-YOUTH: And what do you do with that as the starting point?
-PHILOSOPHER: You make the switch from attachment to self (self-interest) to concern for others (social interest).
-YOUTH: Attachment to self? Concern for others? What's all that about?
+HEADER3: Why Am I Only Interested in Myself?
+PHILOSOPHER: Well, let's consider this concretely. For purposes of clarity, in place of "attachment to self" I will use the word "self-centered." In your view, someone who is selfcentered is what sort of person?
+YOUTH: Hmm, I guess the first thing that comes to mind is the kind of person who's like a tyrant. Someone who's domineering, has no qualms about being a nuisance to others, and thinks only about things that are to his own advantage. He thinks that the world revolves around him, and he behaves like a dictator who rules by absolute authority and force. He's the kind of person who creates an enormous amount of trouble for everyone around him. Someone who's just like Shakespeare's King Lear, a typical tyrant.
+PHILOSOPHER: I see.
+YOUTH: On the other hand, he wouldn't necessarily be a tyrant--one might speak of the sort of person who disturbs the harmony of a group as self-centered, too. He's someone who can't operate in a group and prefers to act alone. He never stops to reflect on his actions, even when he's late for appointments or fails to keep his promises. In a word, he is an egotist.
+PHILOSOPHER: To be sure, that is the kind of image that generally comes to mind when thinking of self-centered people. But there is another type that must be taken into account. People who are incapable of carrying out the separation of tasks and who are obsessed with the desire for recognition are also extremely self-centered.
+YOUTH: Why is that?
+PHILOSOPHER: Consider the reality of the desire for recognition. How much do others pay attention to you, and what is their judgment of you? That is to say, how much do they satisfy your desire? People who are obsessed with such a desire for recognition will seem to be looking at other people, while they are actually looking only at themselves. They lack concern for others and are concerned solely with the "I." Simply put, they are self-centered.
+YOUTH: So would you say that people like me, who fear being judged by others, are selfcentered, too? Even though I try so hard to be mindful of others and adjust myself to them?
+PHILOSOPHER: Yes. In the sense that you are concerned solely with the "I," you are selfcentered. You want to be thought well of by others, and that is why you worry about the way they look at you. That is not concern for others. It is nothing but attachment to self.
+YOUTH: But . . .
+PHILOSOPHER: This is something I spoke of last time. The fact that there are people who do not think well of you is proof that you are living in freedom. You might have a sense of something about this that seems self-centered. But I think you have understood this from today's discussion: A way of living in which one is constantly troubled by how one is seen by others is a self-centered lifestyle in which one's sole concern is with the "I."
+YOUTH: Well, now, that is an astounding statement!
+PHILOSOPHER: Not just you, but all people who are attached to the "I" are self-centered. And that is precisely why it is necessary to make the switch from "attachment to self" to "concern for others."
+YOUTH: Okay, so yes, it is true that I am always looking only at myself, that, I acknowledge. I'm constantly worried about how other people see me, but not about how I see them. If you are saying I am self-centered, there is nothing that I can say to refute that. But think about it like this: If my life were a feature-length movie, the protagonist would certainly be this "I," wouldn't it? Is pointing the camera at the protagonist really such a reprehensible thing?
