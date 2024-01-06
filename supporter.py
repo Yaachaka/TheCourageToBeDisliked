@@ -5,9 +5,9 @@ with open("supporter.txt", "r") as file1:
 		arr1.append(line)
 
 chapter = "chapter_06"
-chapter_x = chapter + "p01"
+chapter_x = chapter + "p02"
 
-newChapter = 1
+newChapter = 0
 
 if newChapter == 1:
 	print("\t<hr class=\"contentDivide\">")  # For chapter
