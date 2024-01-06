@@ -4,10 +4,10 @@ with open("supporter.txt", "r") as file1:
 	for line in file1:
 		arr1.append(line)
 
-chapter = "chapter_05"
-chapter_x = chapter + "p10"
+chapter = "chapter_06"
+chapter_x = chapter + "p01"
 
-newChapter = 0
+newChapter = 1
 
 if newChapter == 1:
 	print("\t<hr class=\"contentDivide\">")  # For chapter
