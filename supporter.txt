@@ -1,26 +1,25 @@
-HEADER3: The Encouragement Approach
-PHILOSOPHER: As you may recall from our discussion on the separation of tasks, I brought up the subject of intervention. This is the act of intruding on other people's tasks. So why does a person intervene? Here, too, in the background, vertical relationships are at play. It is precisely because one perceives interpersonal relations as vertical, and sees the other party as beneath one, that one intervenes. Through intervention, one tries to lead the other party in the desired direction. One has convinced oneself that one is right and that the other party is wrong. Of course, the intervention here is manipulation, pure and simple. Parents commanding a child to study is a typical example of this. They might be acting out of the best of intentions from their points of view, but when it comes down to it, the parents are intruding and attempting to manipulate the child to go in their desired direction.
-YOUTH: If one can build horizontal relationships, will that intervention disappear?
-PHILOSOPHER: Yes, it will.
-YOUTH: Well, it's one thing if you're just talking about a child's studies. But when someone's suffering right there in front of you, you can't just leave him or her be, can you? Would you still say that lending a helping hand is intervention, and then do nothing?
-PHILOSOPHER: One must not let it go unnoticed. It is necessary to offer assistance that does not turn into intervention.
-YOUTH: What is the difference between intervention and assistance?
-PHILOSOPHER: Think back to our discussion of the separation of tasks, to the subject of a child's schoolwork. As I stated then, this is a task that the child has to resolve himself, not something that parents or teachers can do for him. So intervention is this kind of intruding on other people's tasks and directing them by saying things like "You have to study" or "Get into that university." Whereas assistance, on the other hand, presupposes the separation of tasks, and also horizontal relationships. Having understood that studying is the child's task, one considers what one can do for him. Concretely speaking, instead of commanding from above that the child must study, one acts on him in such a way that he can gain the confidence to take care of his own studies and face his tasks on his own.
-YOUTH: And that action isn't forced?
-PHILOSOPHER: No, it's not. Without forcing, and with the tasks always kept separate, one assists the child to resolve them by his own efforts. It's the approach of "You can lead a horse to water, but you can't make him drink." He is the one who has to face his tasks, and he is the one who makes the resolution.
-YOUTH: So you neither praise nor rebuke?
-PHILOSOPHER: That's right, one neither praises nor rebukes. This kind of assistance, which is based on horizontal relationships, is referred to in Adlerian psychology as "encouragement."
-YOUTH: Encouragement, huh? Right, that's the term you mentioned some time ago. You said you'd explain at a later date.
-PHILOSOPHER: When one is not following through with one's tasks, it is not because one is without ability. Adlerian psychology tells us that the issue here is not one of ability but simply that "one has lost the courage to face one's tasks." And if that is the case, the thing to do before anything else is to recover that lost courage.
-YOUTH: But we're just going around in circles! That's basically the same as giving praise. When one is praised by another person, one becomes truly aware of one's ability and regains one's courage. Please do not be stubborn about this point--just acknowledge the necessity of giving praise.
-PHILOSOPHER: No, I will not acknowledge that.
-YOUTH: Why not?
-PHILOSOPHER: The reason is clear. Being praised is what leads people to form the belief that they have no ability.
-YOUTH: What did you say?
-PHILOSOPHER: Shall I repeat myself? The more one is praised by another person, the more one forms the belief that one has no ability. Please do your best to remember this.
-YOUTH: Do such foolish people even exist? It's got to be the other way around! It is as a result of being praised that one becomes truly aware of one's ability. Isn't that obvious?
-PHILOSOPHER: You are wrong. Even if you do derive joy from being praised, it is the same as being dependent on vertical relationships and acknowledging that you have no ability. Because giving praise is a judgment that is passed by a person of ability onto a person without ability.
-YOUTH: I just cannot agree with that.
-PHILOSOPHER: When receiving praise becomes one's goal, one is choosing a way of living that is in line with another person's system of values. Looking at your life until now, aren't you tired of trying to live up to your parents' expectations?
-YOUTH: Um, well, I guess so.
-PHILOSOPHER: First, do the separation of tasks. Then, while accepting each other's differences, build equal horizontal relationships. Encouragement is the approach that comes next.
+HEADER3: How to Feel You Have Value
+YOUTH: So concretely speaking, how does one go about this? One cannot praise, and one cannot rebuke. What other words and choices are there?
+PHILOSOPHER: Think about a time when you've had help in your work--not from a child but from a partner who is your equal--and you will probably see the answer right away. When a friend helps you clean your home, what do you say to him?
+YOUTH: I say, "Thank you."
+PHILOSOPHER: Right. You convey words of gratitude, saying thank you to this partner who has helped you with your work. You might express straightforward delight: "I'm glad." Or you could convey your thanks by saying, "That was a big help." This is an approach to encouragement that is based on horizontal relationships.
+YOUTH: That's all?
+PHILOSOPHER: Yes. The most important thing is to not judge other people. "Judgment" is a word that comes out of vertical relationships. If one is building horizontal relationships, there will be words of more straightforward gratitude and respect and joy.
+YOUTH: Hmm, your point that judgment is created by vertical relationships certainly seems to be true. But what about this? Could the words "thank you" actually have such a great power as to be able to bring back courage? After all, I think I'd prefer to be praised, even if the words I hear are ones that come from vertical relationships.
+PHILOSOPHER: Being praised essentially means that one is receiving judgment from another person as "good." And the measure of what is good or bad about that act is that person's yardstick. If receiving praise is what one is after, one will have no choice but to adapt to that person's yardstick and put the brakes on one's own freedom. "Thank you," on the other hand, rather than being judgment, is a clear expression of gratitude. When one hears words of gratitude, one knows that one has made a contribution to another person.
+YOUTH: So even if you're judged as "good" by another person, you don't feel that you've made a contribution?
+PHILOSOPHER: That's right. This is a point that will connect to our subsequent discussion as well--in Adlerian psychology, a great deal of emphasis is given to "contribution."
+YOUTH: Why is that?
+PHILOSOPHER: Well, what does a person have to do to get courage? In Adler's view, "It is only when a person is able to feel that he has worth that he can possess courage."
+YOUTH: When a person is able to feel that he has worth?
+PHILOSOPHER: Do you recall when we were discussing the feeling of inferiority that I spoke of this as being an issue of subjective worth? Is one able to feel one has worth, or does one feel one is a worthless being? If one is able to feel one has worth, then one can accept oneself just as one is and have the courage to face one's life tasks. So the issue that arises at this point is how on earth can one become able to feel one has worth?
+YOUTH: Yes, that's it exactly! I need you to explain that very clearly, please.
+PHILOSOPHER: It's quite simple. It is when one is able to feel "I am beneficial to the community" that one can have a true sense of one's worth. This is the answer that would be offered in Adlerian psychology.
+YOUTH: That I am beneficial to the community?
+PHILOSOPHER: That one can act on the community, that is to say, on other people, and that one can feel "I am of use to someone." Instead of feeling judged by another person as "good," being able to feel, by way of one's own subjective viewpoint, that "I can make contributions to other people." It is at that point that, at last, we can have a true sense of our own worth. Everything we have been discussing about community feeling and encouragement connects here.
+YOUTH: Hmm. I don't know, it's starting to get a bit confusing.
+PHILOSOPHER: We are getting to the heart of the discussion now. Please stick with me a while longer. It is about having concern for others, building horizontal relationships, and taking the approach of encouragement. All these things connect to the deep life awareness of "I am of use to someone," and in turn, to your courage to live.
+YOUTH: To be of use to someone. That is what my life is worth living for . . . ?
+PHILOSOPHER: Let's take a little break. Would you like some coffee?
+YOUTH: Yes, please.
+NARRATOR: The discussion of community feeling had become more confusing than ever. One must not praise. And one must not rebuke, either. All words that are used to judge other people are words that come out of vertical relationships, and we need to build horizontal relationships. And it is only when one is able to feel that one is of use to someone that one can have a true awareness of one's worth. There was a major flaw in this logic somewhere. The young man felt it instinctively. As he sipped the hot coffee, thoughts of his grandfather crossed his mind.
