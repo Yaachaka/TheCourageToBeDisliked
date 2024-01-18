@@ -5,7 +5,7 @@ with open("supporter.txt", "r") as file1:
 		arr1.append(line)
 
 chapter = "chapter_06"
-chapter_x = chapter + "p13"
+chapter_x = chapter + "p14"
 
 newChapter = 0
 

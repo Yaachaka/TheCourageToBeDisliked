@@ -1,21 +1,48 @@
-HEADER3: The Greatest Life-Lie
-YOUTH: To live earnestly and conscientiously?
-PHILOSOPHER: For example, one wants to get into a university but makes no attempt to study. This an attitude of not living earnestly here and now. Of course, maybe the entrance examination is still far off. Maybe one is not sure what needs to be studied or how thoroughly, and one finds it troublesome. However, it is enough to do it little by little--every day one can work out some mathematical formulas, one can memorize some words. In short, one can dance the dance. By doing so, one is sure to have a sense of "this is what I did today"; this is what today, this single day, was for. Clearly, today is not for an entrance examination in the distant future. And the same thing would hold true for your father, too--he was likely dancing earnestly the dance of his everyday work. He lived earnestly here and now, without having a grand objective or the need to achieve that objective. And, if that was the case, it would seem that your father's life was a happy one.
-YOUTH: Are you telling me to affirm that way of living? That I should accept my father's constantly work-burdened existence . . . ?
-PHILOSOPHER: There is no need to make yourself affirm it. Only instead of seeing his life as a line that he reached, start seeing how he lived it, see the moments of his life.
-YOUTH: The moments.
-PHILOSOPHER: And the same may be said with regard to your own life. You set objectives for the distant future, and think of now as your preparatory period. You think, I really want to do this, and I'll do it when the time comes. This is a way of living that postpones life. As long as we postpone life, we can never go anywhere and will pass our days only one after the next in dull monotony, because we think of here and now as just a preparatory period, as a time for patience. But a "here and now" in which one is studying for an entrance examination in the distant future, for example, is the real thing.
-YOUTH: Okay, I'll accept that. I can certainly accept living earnestly here and now, and not setting up some fabricated line. But I don't have any dreams or objectives in my life. I don't know what dance to do. My here and now is nothing but utterly useless moments.
-PHILOSOPHER: Not having objectives or the like is fine. Living earnestly here and now is itself a dance. One must not get too serious. Please do not confuse being earnest with being too serious.
-YOUTH: Be earnest but not too serious.
-PHILOSOPHER: That's right. Life is always simple, not something that one needs to get too serious about. If one is living each moment earnestly, there is no need to get too serious. And there is another thing I would like you to keep in mind: When one has adopted an energeial viewpoint, life is always complete.
-YOUTH: It's complete?
-PHILOSOPHER: If your life, or mine, for that matter, were to come to an end here and now, it would not do to refer to either of them as unhappy. The life that ends at the age of twenty and the life that ends at ninety are both complete lives, and lives of happiness.
-YOUTH: So if I have lived earnestly here and now, those moments will always be complete?
-PHILOSOPHER: Exactly. Now, I have used the word "life-lie" again and again throughout our discussion. I would like to conclude by talking about the greatest life-lie of all.
-YOUTH: Please do.
-PHILOSOPHER: The greatest life-lie of all is to not live here and now. It is to look at the past and the future, cast a dim light on one's entire life, and believe that one has been able to see something. Until now, you have turned away from the here and now and shone a light only on invented pasts and futures. You have told a great lie to your life, to these irreplaceable moments.
-YOUTH: Oh, okay!
-PHILOSOPHER: So cast away the life-lie and fearlessly shine a bright spotlight on here and now. That is something you can do.
-YOUTH: That is something I can do? Do you think I have in me the courage to live out these moments earnestly, without resorting to the life-lie?
-PHILOSOPHER: Since neither the past nor the future exists, let's talk about now. It's not yesterday or tomorrow that decides it. It's here and now.
+HEADER3: Give Meaning to Seemingly Meaningless Life
+YOUTH: What are you saying?
+PHILOSOPHER: I think this discussion has now reached the water's edge. Whether you drink the water or not is entirely up to you.
+YOUTH: Ah, maybe Adlerian psychology, and your philosophy, are actually changing me. Maybe I am trying to let go of my resolve not to change, and choose a new way of living, a new lifestyle . . . But wait, there is one last thing I'd like to ask.
+PHILOSOPHER: And what would that be?
+YOUTH: When life is taken as a series of moments, as existing only here and now, what meaning could it possibly have? For what was I born, and for what am I enduring this life of hardship until I reach my last gasp? The point of it all is beyond me.
+PHILOSOPHER: What is the meaning of life? What are people living for? When someone posed these questions to Adler, this was his answer: "Life in general has no meaning."
+YOUTH: Life is meaningless?
+PHILOSOPHER: The world in which we live is constantly beset by all manner of horrendous events, and we exist with the ravages of war and natural disasters all around us. When confronted by the fact of children dying in the turmoil of war, there is no way one can go on about the meaning of life. In other words, there is no meaning in using generalizations to talk about life. But being confronted by such incomprehensible tragedies without taking any action is tantamount to affirming them. Regardless of the circumstances, we must take some form of action. We must stand up to Kant's "inclination."
+YOUTH: Yes!
+PHILOSOPHER: Now, suppose one experiences a major natural disaster, and one's response is to look back at the past in an etiological manner and say, "What could have caused such a thing to happen?" How meaningful would that be? An experience of hardship should be an opportunity to look ahead and think, What can I do from now on?
+YOUTH: I agree entirely!
+PHILOSOPHER: And Adler, having stated that "life in general has no meaning," then continues, "Whatever meaning life has must be assigned to it by the individual."
+YOUTH: Assigned to it by the individual? What does that mean?
+PHILOSOPHER: During the war, my grandfather was firebombed, and his face was severely burned. In every way, it was a horrendous and inhumane event. It would certainly have been within the realm of possibility for him to choose a lifestyle with the perspective of "the world is a horrible place" or "people are my enemies." However, when my grandfather rode the train on visits to the hospital, there were always other passengers who would give up their seats for him. This is something I heard about through my mother, so I do not know how he actually felt. But this is what I believe: My grandfather chose a lifestyle with the perspective of "People are my comrades, and the world is a wonderful place." That is exactly what Adler is pointing to when he says whatever meaning life has must be assigned to it by the individual. So life in general has no meaning whatsoever. But you can assign meaning to that life. And you are the only one who can assign meaning to your life.
+YOUTH: Then, please tell me! How can I assign proper meaning to a meaningless life? I do not have the confidence yet!
+PHILOSOPHER: You are lost in your life. Why are you lost? You are lost because you are trying to choose freedom, that is to say, a path on which you are not afraid of being disliked by others and you are not living others' lives--a path that is yours alone.
+YOUTH: That's right! I want to choose happiness, and choose freedom!
+PHILOSOPHER: When one attempts to choose freedom, it is only natural that one may lose one's way. At this juncture, Adlerian psychology holds up a "guiding star" as a grand compass pointing to a life of freedom.
+YOUTH: A guiding star?
+PHILOSOPHER: Just like the traveler who relies on the North Star, in our lives we need a guiding star. That is the Adlerian psychology way of thinking. It is an expansive ideal that says, as long as we do not lose sight of this compass and keep on moving in this direction, there is happiness.
+YOUTH: Where is that star?
+PHILOSOPHER: It is contribution to others.
+YOUTH: Huh? Contribution to others!
+PHILOSOPHER: No matter what moments you are living, or if there are people who dislike you, as long as you do not lose sight of the guiding star of "I contribute to others," you will not lose your way, and you can do whatever you like. Whether you're disliked or not, you pay it no mind and live free.
+YOUTH: If I have the star of contribution to others high in the sky above me, I will always have happiness and comrades by my side.
+PHILOSOPHER: Then, let's dance in earnest the moments of the here and now, and live in earnest. Do not look at the past, and do not look at the future. One lives each complete moment like a dance. There is no need to compete with anyone, and one has no use for destinations. As long as you are dancing, you will get somewhere.
+YOUTH: A "somewhere" that no one else knows!
+PHILOSOPHER: That is the nature of energeial life. If I look back on my own life up to now, no matter how I try, I will never arrive at a satisfactory explanation as to why I am here and now. Though, at one time, the study of Greek philosophy was my focus, before long I took up the study of Adlerian psychology in tandem with it, and here I am today, deep in conversation with you, my irreplaceable friend. It is the result of having danced the moments--that is the only way to explain it. When you have danced here and now in earnest and to the full, that is when the meaning of your life will become clear to you.
+YOUTH: It will? I . . . I believe you!
+PHILOSOPHER: Yes, please believe. Through my many years living with Adler's thought, there is something I have noticed.
+YOUTH: And that is?
+PHILOSOPHER: It is that the power of one person is great, or, rather, "my power is immeasurably great."
+YOUTH: What do you mean?
+PHILOSOPHER: Well, in other words, if "I" change, the world will change. This means that the world can be changed only by me and no one else will change it for me. The world that has appeared to me since learning of Adlerian psychology is not the world I once knew.
+YOUTH: If I change, the world will change. No one else will change the world for me . . .
+PHILOSOPHER: It is similar to the shock experienced by someone who, after many years of being nearsighted, puts on glasses for the first time. Previously indistinct outlines of the world become well defined, and even the colors are more vivid. Furthermore, it is not only a part of one's visual field that becomes clear but also the entire visible world. I can only imagine how happy you will be if you have a similar experience.
+YOUTH: Ah, if only I'd known! I wish I had known this ten years ago, or even just five years ago. If only I had known five years ago, before I got a job . . .
+PHILOSOPHER: No, that is not the case. You say you wish you had known this ten years ago. It is because Adler's thought resonates with you now that you are thinking this. No one knows how you would have felt about it ten years ago. This discussion was something that you needed to hear now.
+YOUTH: Yes, I certainly did!
+PHILOSOPHER: One more time, I give you the words of Adler: "Someone has to start. Other people might not be cooperative, but that is not connected to you. My advice is this: You should start. With no regard to whether others are cooperative or not."
+YOUTH: I cannot tell yet if it is I who have changed, or if it is the world that I can see from that vantage point that has changed. But there is one thing I can say with conviction: Here and now is shining brightly! Yes, it is so bright that I can see almost nothing of tomorrow.
+PHILOSOPHER: I believe that you have drunk the water. So young friend who walks ahead, shall we walk together?
+YOUTH: I believe you, too. Yes, let's walk together. And thank you for all your time.
+PHILOSOPHER: Thank you, too.
+YOUTH: I hope you will not mind if, at some point, I visit you here again. Yes, as an irreplaceable friend. And I won't be saying anything more about taking apart your arguments.
+PHILOSOPHER: Ha-ha! At last, you have shown me a young person's smile. Well, it's quite late already. Let's pass our own nights, and greet the new morning.
+NARRATOR: The young man slowly tied his shoelaces and left the philosopher's house. On opening the door, he found a snowy scene spread out before him. The full moon, its floating form obscured, illuminated the shimmering whiteness at his feet. <i>What clear air. What dazzling light. I am going to tread on this fresh snow, and take my first step.</i> The young man drew a deep breath, rubbed the slight stubble on his face, and murmured emphatically, <b>"The world is simple, and life is too."</b>
